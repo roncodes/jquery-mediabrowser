@@ -14,3 +14,7 @@
 
 <h3>More info</h3>
 <p>Unfortunatley I only have a connector written in Groovy for Grails, but I will knock out a php implementation when I have some time, as well as Python. Contributors more than welcome</p>
+
+<h3>Screenshot</h3>
+<a href="http://imgur.com/Tw0dKrD"><img src="http://i.imgur.com/Tw0dKrD.png" title="Hosted by imgur.com" /></a>
+
