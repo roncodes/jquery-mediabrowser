@@ -4,7 +4,7 @@
 <h3>Install</h3>
 <ul>
 	<li>Include jquery.mediabrowser.css, and jquery.mediabrowser.js in the header</li>
-	<li>Create an empty div, with an id or class selector - whatever you need it to be. In the example I have <code><div id="mediabrowser"></div></code></li>
+	<li>Create an empty div, with an id or class selector - whatever you need it to be. In the example I have <code>id="mediabrowser"</code></li>
 	<li>Now all you have to do is add this snippet, modify as needed: <code><script type="text/javascript" charset="utf-8">
 	$().ready(function() {
 		var mb = $('#mediabrowser').mediabrowser({'connector': 'url')});		
